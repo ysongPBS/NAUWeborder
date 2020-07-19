@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WebOrder/v16
+/.vs/slnx.sqlite
+/obj/Release
+/Properties/PublishProfiles
+/.vs/pbsweborder/v16/.suo
+/.vs/VSWorkspaceState.json
+/obj/Debug/Tsc.out
